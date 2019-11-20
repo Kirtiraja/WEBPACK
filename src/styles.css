@@ -3,10 +3,10 @@ body {
   margin: 25px;
 }
 
-/* .feed, .poke, .sleep {
+.feed, .poke, .sleep {
   display: none;
 }
 
 .warning {
   color: #ff7919;
-} */
+}
